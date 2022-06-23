@@ -1,0 +1,8 @@
+{
+    "optimal_threshold": 0.989,
+    "roc_auc_score": 0.797,
+    "accuracy_score": 0.826,
+    "precision_score": 1.0,
+    "recall_score": 0.495,
+    "f1": 0.662
+}

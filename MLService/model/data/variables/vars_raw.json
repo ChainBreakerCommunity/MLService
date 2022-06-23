@@ -1,0 +1,15 @@
+{
+    "MODEL_INPUT": ["text"], 
+    "FINAL_DATA": [], 
+    "CATEGORICAL_FEATURES": [], 
+    "CATEGORIES": {},
+    "OTHER": [], 
+    "BOOLEAN_FEATURES": [
+        "THIRD_PERSON", 
+        "FIRST_PERSON_PLURAL", 
+        "HT_FIND_KEYWORDS", 
+        "SERVICE_IS_RESTRICTED", 
+        "SERVICE_PLACE"
+    ], 
+    "NUMERICAL_FEATURES": []
+}
